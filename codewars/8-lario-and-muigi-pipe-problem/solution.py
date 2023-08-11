@@ -2,6 +2,7 @@
 def pipe_fix(nums):
     return list(range(nums[0], nums[-1] + 1))
 
+
 # TEST FUNCTION
 def test_pipe_fix():
     assert pipe_fix([1, 2, 3, 5, 6, 8, 9]) == [1, 2, 3, 4, 5, 6, 7, 8, 9]

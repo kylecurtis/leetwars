@@ -4,6 +4,7 @@ def add_length(str_):
     word_group = [f"{word} {len(word)}" for word in word_list]
     return word_group
 
+
 # TEST FUNCTION
 def test_add_length():
     assert add_length('apple ban') == ["apple 5", "ban 3"]
