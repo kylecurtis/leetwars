@@ -18,6 +18,7 @@ Kyu ratings: 8 kyu (easiest) --> 1 kyu (hardest)
 | 8 kyu | [Square(n) Sum](https://www.codewars.com/kata/515e271a311df0350d00000f) | [Python](codewars/8-square-n-sum/solution.py) | Arrays, Lists, Fundamentals |
 | 8 kyu | [Count The Monkeys](https://www.codewars.com/kata/56f69d9f9400f508fb000ba7) | [Python](codewars/8-count-the-monkeys/solution.py) | Arrays, Fundamentals, Lists, Algorithms | 
 | 8 kyu | [Lario And Muigi Pipe Problem](https://www.codewars.com/kata/56b29582461215098d00000f) | [Python](codewars/8-lario-and-muigi-pipe-problem/solution.py) | Lists, Fundamentals |
+| 8 kyu | [Count of positives / sum of negatives](https://www.codewars.com/kata/576bb71bbbcf0951d5000044) | [Python](codewars/8-count-of-positives-sum-of-negatives/solution.py) | Fundamentals, Arrays, Lists |
 
 <br>
 
