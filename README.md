@@ -21,6 +21,7 @@ Kyu ratings: 8 kyu (easiest) --> 1 kyu (hardest)
 | 8 kyu | [Count of positives / sum of negatives](https://www.codewars.com/kata/576bb71bbbcf0951d5000044) | [Python](codewars/8-count-of-positives-sum-of-negatives/solution.py) | Fundamentals, Arrays, Lists |
 | 8 kyu | [Grasshopper - Array Mean](https://www.codewars.com/kata/55d277882e139d0b6000005d/python) | [Python](codewars/8-grasshopper-array-mean/solution.py) | Arrays, Lists, Fundamentals |
 | 8 kyu | [Remove First and Last Character](https://www.codewars.com/kata/56bc28ad5bdaeb48760009b0) | [Python](codewars/8-remove-first-and-last-character/solution.py) | Strings, Fundamentals |
+| 8 kyu | [Remove First and Last Character Part Two](https://www.codewars.com/kata/570597e258b58f6edc00230d) | [Python](codewars/8-remove-first-and-last-character-pt-2/solution.py) | Fundamentals, Arrays, Strings | 
 | 8 kyu | [Welcome to the City](https://www.codewars.com/kata/5302d846be2a9189af0001e4) | [Python](codewars/8-welcome-to-the-city/solution.py) | Strings, Fundamentals |
 
 <br>
