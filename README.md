@@ -1,6 +1,6 @@
 # leetwars
 
-All of my tests and solutions for websites like CodeWars, Leetcode, etc. Currently using Python with Pytest.
+All of my tests and solutions for websites like CodeWars, Leetcode, etc. Currently using Python with Pytest. Currently organized in order of when I complete them.
 
 <br>
 
@@ -20,6 +20,7 @@ Kyu ratings: 8 kyu (easiest) --> 1 kyu (hardest)
 | 8 kyu | [Lario And Muigi Pipe Problem](https://www.codewars.com/kata/56b29582461215098d00000f) | [Python](codewars/8-lario-and-muigi-pipe-problem/solution.py) | Lists, Fundamentals |
 | 8 kyu | [Count of positives / sum of negatives](https://www.codewars.com/kata/576bb71bbbcf0951d5000044) | [Python](codewars/8-count-of-positives-sum-of-negatives/solution.py) | Fundamentals, Arrays, Lists |
 | 8 kyu | [Grasshopper - Array Mean](https://www.codewars.com/kata/55d277882e139d0b6000005d/python) | [Python](codewars/8-grasshopper-array-mean/solution.py) | Arrays, Lists, Fundamentals |
+| 8 kyu | [Remove First and Last Character](https://www.codewars.com/kata/56bc28ad5bdaeb48760009b0) | [Python](codewars/8-remove-first-and-last-character/solution.py) | Strings, Fundamentals |
 
 <br>
 
