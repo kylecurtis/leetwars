@@ -23,6 +23,7 @@ Kyu ratings: 8 kyu (easiest) --> 1 kyu (hardest)
 | 8 kyu | [Remove First and Last Character](https://www.codewars.com/kata/56bc28ad5bdaeb48760009b0) | [Python](codewars/8-remove-first-and-last-character/solution.py) | Strings, Fundamentals |
 | 8 kyu | [Remove First and Last Character Part Two](https://www.codewars.com/kata/570597e258b58f6edc00230d) | [Python](codewars/8-remove-first-and-last-character-pt-2/solution.py) | Fundamentals, Arrays, Strings | 
 | 8 kyu | [Welcome to the City](https://www.codewars.com/kata/5302d846be2a9189af0001e4) | [Python](codewars/8-welcome-to-the-city/solution.py) | Strings, Fundamentals |
+| 8 kyu | [Short Long Short](https://www.codewars.com/kata/50654ddff44f800200000007) | [Python](codewars/8-short-long-short/solution.py) | Algorithms, Strings | 
 
 <br>
 
