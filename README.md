@@ -26,6 +26,7 @@ Kyu ratings: 8 kyu (easiest) --> 1 kyu (hardest)
 | 8 kyu | [Short Long Short](https://www.codewars.com/kata/50654ddff44f800200000007) | [Python](codewars/8-short-long-short/solution.py) | Algorithms, Strings |
 | 8 kyu | [Stringy Strings](https://www.codewars.com/kata/563b74ddd19a3ad462000054) | [Python](codewars/8-stringy-strings/solution.py) | Strings, Binary, Algorithms |
 | 8 kyu | [Capitalization and Mutability](https://www.codewars.com/kata/595970246c9b8fa0a8000086) | [Python](codewars/8-capitalization-and-mutability/solution.py) | Strings, Debugging |
+| 8 kyu | [Who is going to pay for the wall?](https://www.codewars.com/kata/58bf9bd943fadb2a980000a7) | [Python](codewars/8-who-is-going-to-pay-for-the-wall/solution.py) | Fundamentals, Strings |
 
 <br>
 
