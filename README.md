@@ -29,6 +29,7 @@ Kyu ratings: 8 kyu (easiest) --> 1 kyu (hardest)
 | 8 kyu | [Who is going to pay for the wall?](https://www.codewars.com/kata/58bf9bd943fadb2a980000a7) | [Python](codewars/8-who-is-going-to-pay-for-the-wall/solution.py) | Fundamentals, Strings |
 | 8 kyu | [Even or Odd](https://www.codewars.com/kata/53da3dbb4a5168369a0000fe/) | [Python](codewars/8-even-or-odd/solution.py) | Mathematics, Fundamentals |
 | 8 kyu | [Find the smallest integer in the array](https://www.codewars.com/kata/55a2d7ebe362935a210000b2) | [Python](codewars/8-find-the-smallest-integer-in-the-array/solution.py) | Fundamentals |
+| 8 kyu | [Double Char](https://www.codewars.com/kata/56b1f01c247c01db92000076) | [Python](codewars/8-double-char/solution.py) | Fundamentals, Strings |
 
 <br>
 
